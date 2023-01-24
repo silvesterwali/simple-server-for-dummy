@@ -1,0 +1,31 @@
+[
+  {
+    "_id": "b73f68ff-9937-44ec-9583-24cb7eed0d57",
+    "colName": "server",
+    "created": "2023-01-24T06:54:38.143Z",
+    "sortNum": 10000,
+    "folders": [
+      {
+        "_id": "737abd8b-14dd-4dac-8451-cde34ee516bc",
+        "name": "home",
+        "containerId": "",
+        "created": "2023-01-24T06:54:45.008Z",
+        "sortNum": 10000
+      },
+      {
+        "_id": "102e6d5b-6e95-47bd-85dd-7f5a0559fd01",
+        "name": "users",
+        "containerId": "",
+        "created": "2023-01-24T06:57:13.579Z",
+        "sortNum": 20000
+      },
+      {
+        "_id": "8816889c-c7ef-4680-a4be-4cdb9f837619",
+        "name": "posts",
+        "containerId": "",
+        "created": "2023-01-24T07:07:12.491Z",
+        "sortNum": 30000
+      }
+    ]
+  }
+]
